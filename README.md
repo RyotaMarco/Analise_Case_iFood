@@ -3,7 +3,7 @@
 
 ![Captura de tela 2024-06-20 031443](https://github.com/RyotaMarco/Analise_Case_iFood/assets/91039085/8b39dc0d-630a-4b94-9fce-a4efb5539cf7)
 
-Este repositório contém a análise de um case de dados fornecido pelo iFood proposta pelo E.B.A e pela Renata Biaggi. O objetivo deste projeto é explorar e analisar os dados, gerar insights e visualizar as informações relevantes para ajudar na tomada de decisões.
+O objetivo deste projeto é explorar e analisar os dados, gerar insights e visualizar as informações relevantes para ajudar na tomada de decisões.
 
 ## Índice
 
